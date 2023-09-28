@@ -66,6 +66,23 @@ Esses sistemas precisam gerenciar diferentes tipos de dados, como dados de local
 
 # Comparação das técnicas
 
+Focus and Application:
+
+Article Summary: The article focuses on the use of IoT data and machine learning algorithms to enhance smart city services, with a particular emphasis on traffic prediction and management.
+Aircraft Failure Prediction Project: This project's primary focus would be on aviation safety and maintenance by developing predictive AI models to detect potential failures in aircraft systems, such as the bleed mechanism.
+Data Sources:
+
+Article Summary: The article mentions the use of open datasets for smart city applications, possibly sourced from various sensors and IoT devices deployed within the city.
+Aircraft Failure Prediction Project: The project would likely rely on aircraft-specific data sources, including sensor data from various aircraft components and maintenance records.
+Algorithms:
+
+Article Summary: The article discusses the use of Support Vector Machine (SVM) algorithm for traffic prediction in a smart city context.
+Aircraft Failure Prediction Project: The aircraft failure prediction project would employ AI and machine learning algorithms tailored to aviation data, which may include techniques like anomaly detection, predictive maintenance models, or neural networks.
+Objectives:
+
+Article Summary: The article aims to understand IoT data characteristics, machine learning algorithm suitability for IoT data, and their applications in smart cities.
+Aircraft Failure Prediction Project: The primary objective is to increase aviation safety and reliability by predicting and preventing potential failures in aircraft systems, which is a critical concern for passenger safety and the aviation industry as a whole.
+
 Cloud computing está sendo utilizado no projeto da seguinte maneira:
 O nosso modelo, após ser treinado, vai estar na nuvem com uma api onde poderá ser consumido por nosso frontend, que tambem estará na nuvem, para fazer a predição de novos dados inseridos pelo usuarios.
 
