@@ -66,4 +66,7 @@ Esses sistemas precisam gerenciar diferentes tipos de dados, como dados de local
 
 # Comparação das técnicas
 
+Cloud computing está sendo utilizado no projeto da seguinte maneira:
+O nosso modelo, após ser treinado, vai estar na nuvem com uma api onde poderá ser consumido por nosso frontend, que tambem estará na nuvem, para fazer a predição de novos dados inseridos pelo usuarios.
+
 # Resenha crítica
