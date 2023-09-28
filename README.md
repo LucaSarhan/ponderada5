@@ -8,11 +8,11 @@ The quality of data, big data generation, sensor data integration, and semantic 
 
 Internet of Things
 
-The purpose of Internet of Things system monitoring. The most recent advances made in IoT began when RFID tags were put into use more frequently, lower cost sensors became more available, web technology developed, and communication protocols changed , . This type of communication is mostly applied to cloud processing. Server to Server storing local data for local use .
+The purpose of Internet of Things is system monitoring. The most recent advances made in IoT began when RFID tags were put into use more frequently, lower cost sensors became more available, web technology developed, and communication protocols changed. This type of communication is mostly applied to cloud processing. Server to Server storing local data for local use.
 
 Cloud computing
 
-This architecture has high latency and high load balancing, indicating that this architecture is not sufficient for processing IoT data because most processing should run at high speeds. The volume of this data is high, and big data processing will increase the CPU usage of the cloud servers . In this model, all practical software will be hosted by a service provider and is accessible to the users through the Internet . This cloud service benefits from an Application Programming Interface and software Development Kits an ability to process a higher volume of data.
+This architecture has high latency and high load balancing, indicating that this architecture is not sufficient for processing IoT data because most processing should run at high speeds. The volume of this data is high, and big data processing will increase the CPU usage of the cloud servers. In this model, all practical software will be hosted by a service provider and is accessible to the users through the Internet. This cloud service benefits from an Application Programming Interface and software Development Kits an ability to process a higher volume of data.
 
 Because the smart city is one of the primary applications of IoT, the most important use cases of the smart city and their data characteristics are discussed in the following sections.
 
