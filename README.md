@@ -1,35 +1,3 @@
-Introduction
-
-Third, there are many open datasets for smart city applications that are easily accessible for researchers. Furthermore, a Support Vector Machine algorithm is implemented on the Aarhus City smart traffic data to predict traffic hours during one day. By answering the above questions about IoT smart data and machine learning algorithms, we would be able to choose the best machine learning algorithm that can handle IoT smart data characteristics. Unlike similar surveys regarding machine learning and IoT, readers of this article would be able to obtain a deep and technical understanding of machine learning algorithms, IoT applications, and IoT data characteristics along with both technical and simple implementations.
-
-Organization
-
-The quality of data, big data generation, sensor data integration, and semantic data annotation are reviewed in Section 4. Machine learning algorithms in eight categories based on recent studies on IoT data and frequency of machine learning algorithms are reviewed and summarized in Section 5. The matching of the algorithms to particular smart city applications is carried out in Section 6, and the conclusion together with future research trends and open issues are presented in Section 7, Fig.
-
-Internet of Things
-
-The purpose of Internet of Things is system monitoring. The most recent advances made in IoT began when RFID tags were put into use more frequently, lower cost sensors became more available, web technology developed, and communication protocols changed. This type of communication is mostly applied to cloud processing. Server to Server storing local data for local use.
-
-Cloud computing
-
-This architecture has high latency and high load balancing, indicating that this architecture is not sufficient for processing IoT data because most processing should run at high speeds. The volume of this data is high, and big data processing will increase the CPU usage of the cloud servers. In this model, all practical software will be hosted by a service provider and is accessible to the users through the Internet. This cloud service benefits from an Application Programming Interface and software Development Kits an ability to process a higher volume of data.
-
-Because the smart city is one of the primary applications of IoT, the most important use cases of the smart city and their data characteristics are discussed in the following sections.
-
-Smart city
-
-With an increase in the population and complexity of city infrastructures, cities seek methods to handle large-scale urbanization problems. IoT plays a vital role in collecting data from the city environment. The purpose of building smart cities is to improve services like traffic management, water management, and energy consumption, as well as improving the quality of life for the citizens.
-
-Use case
-
-A city has an important effect on society because the city touches all aspects of human life. A smart city can assist in having a comfortable life.
-
-Smart mobility
-
-Through IoT, city officials can improve the quality of life in the city. With the data collected from vehicles, the most popular/congested routes can be predicted, and decisions can be made to decrease traffic congestion. There exist different perspectives on how to build smart public transportation systems. These systems need to manage different kinds of data like vehicle location data and traffic data.
-
-Smart public transportation systems should be real-time oriented in order to make proper decisions in real-time as well as use historical data analysis . For instance, proposed a mechanism that considers smart city devices as graph nodes, and the authors used big data solutions to solve these issues.
-
 # Sumário do artigo
 
 Introdução
@@ -61,26 +29,24 @@ Esses sistemas precisam gerenciar diferentes tipos de dados, como dados de local
 
 Do artigo: O artigo se concentra no uso de dados IoT e algoritmos de machine learning para aprimorar os serviços de cidades inteligentes, com ênfase especial na previsão e gerenciamento do tráfego.
 
-Projeto: O foco principal deste projeto seria a segurança e manutenção da aviação, por meio do desenvolvimento de modelos preditivos de IA para detectar falhas potenciais em sistemas de aeronaves, como o mecanismo de bleed.
-
+Projeto: O foco principal deste projeto seria a manutenção preditiva de aeronaves, por meio do desenvolvimento de modelos preditivos de IA para detectar falhas potenciais em sistemas bleed das aeronaves.
 Fontes de dados:
 
 Do artigo: O artigo menciona o uso de conjuntos de dados abertos para aplicações de cidades inteligentes, possivelmente originados de vários sensores e dispositivos IoT implantados na cidade.
 
-Projeto: O projeto provavelmente dependeria de fontes de dados específicas de aeronaves, incluindo dados de sensores de vários componentes de aeronaves e registros de manutenção.
+Projeto: O projeto depende de fontes de dados específicas de aeronaves, incluindo dados de sensores do sistema bleed das aeronaves e registros de manutenção.
 
 Algoritmos:
 
 Do artigo: O artigo discute o uso do algoritmo Support Vector Machine (SVM) para previsão de tráfego em um contexto de cidade inteligente.
 
-Projeto: O projeto de previsão de falhas de aeronaves empregaria algoritmos de IA e machine learning adaptados a dados de aviação, que podem incluir técnicas como detecção de anomalias, modelos de manutenção preditiva ou redes neurais.
+Projeto: O projeto empregaria algoritmos de IA e machine learning adaptados a dados da aviação, que inclui técnicas como detecção de anomalias através de modelos de IA.
 
 Objetivos:
 
 Do artigo: O objetivo do artigo é compreender as características dos dados IoT, a adequação dos algoritmos de machine learning aos dados IoT e suas aplicações em cidades inteligentes.
 
-Projeto: O objetivo principal é aumentar a segurança e confiabilidade da aviação, prevendo e prevenindo falhas potenciais em sistemas de aeronaves, o que é uma preocupação crítica para a segurança dos passageiros e para a indústria de aviação como um todo.
-Cloud computing está sendo utilizado no projeto da seguinte maneira:
-O nosso modelo, após ser treinado, vai estar na nuvem com uma api onde poderá ser consumido por nosso frontend, que tambem estará na nuvem, para fazer a predição de novos dados inseridos pelo usuarios.
+Projeto: O objetivo principal é aumentar a segurança e confiabilidade da aviação, prevendo possiveis falhas no sistema bleed de aeronaves, o que é uma preocupação crítica para a azul poder economizar no seu combustível.
+
 
 # Resenha crítica
