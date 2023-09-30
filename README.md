@@ -23,10 +23,6 @@ Cidade inteligente
 
 Com o aumento da população e a complexidade das infra-estruturas urbanas, as cidades procuram métodos para lidar com problemas de urbanização em grande escala. A IoT desempenha um papel vital na coleta de dados do ambiente da cidade. O objetivo da construção de cidades inteligentes é melhorar serviços como gestão de tráfego, gestão de água e consumo de energia, bem como melhorar a qualidade de vida dos cidadãos.
 
-Caso de uso
-
-Uma cidade tem um efeito importante na sociedade porque toca todos os aspectos da vida humana. Uma cidade inteligente pode ajudar a proporcionar uma vida confortável.
-
 Mobilidade inteligente
 
 Através da IoT, as autoridades municipais podem melhorar a qualidade de vida na cidade. Com os dados coletados dos veículos, as rotas mais populares/congestionadas podem ser previstas e podem ser tomadas decisões para diminuir o congestionamento do tráfego. Os carros autônomos podem melhorar a segurança dos passageiros porque têm a capacidade de monitorar a direção dos outros carros. Existem diferentes perspectivas sobre como construir sistemas inteligentes de transporte público.
