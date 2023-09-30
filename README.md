@@ -48,3 +48,23 @@ Utilização de Algoritmos de Aprendizado de Máquina:
 - No projeto, também há a aplicação de algoritmos de aprendizado de máquina, porém direcionados especificamente para a previsão de falhas no sistema bleed de motores de aeronaves.
 
 # Resenha crítica
+
+O artigo intitulado "Machine learning for internet of things data analysis: a survey" oferece uma análise completa e informativa sobre a aplicação de técnicas de aprendizado de máquina na análise dos dados gerados pela Internet das Coisas (IoT). Este trabalho proporciona uma visão detalhada dos desafios e oportunidades relacionados ao processamento de grandes volumes de dados da IoT, bem como das diversas possibilidades de aplicação em setores como cidades inteligentes.
+
+Aspectos Positivos:
+
+Magnitude e Relevância: O artigo aborda um tema muito relevante na area da tecnologia, com a importância crescente do papel desempenhado pela IoT em diversas indústrias. A análise de dados da IoT é uma área em plena ascensão e expansão, e o artigo traz uma análise profunda do status atual das técnicas de aprendizado de máquina aplicadas a esse contexto.
+
+Linguagem e Contextualização: O artigo é muito bem escrito e apresentado num contexto sólido e claro. Os conceitos fundamentais da IoT e do aprendizado de máquina é explicado de forma clara e detalhada, possibilitando o entendimento para um vasto grupo de leitores.
+
+Análise Técnica: O artigo oferece uma análise técnica bem detalhada e sólida das características dos dados da IoT. Ao longo do texto várias categorias de algoritmos de aprendizado de máquina são exploradas e exemplificadas. O público-alvo mais técnico pode ampliar muito seu conhecimento a aprofundar a análise e compreensão das várias técnicas aplicadas e discutidas.
+
+Aspectos Negativos:
+
+Ausência de Exemplos Práticos: Embora o artigo apresente uma análise teórica sólida, ele deixa a desejar ao não incluir exemplos práticos de implementação. A inclusão de estudos de caso ou exemplos reais teria sido útil para ilustrar como as técnicas de aprendizado de máquina são aplicadas de forma concreta na análise de dados da IoT.
+Limitação na Discussão de Desafios Éticos e de Privacidade: Dado o caráter intrusivo da coleta de dados da IoT, seria benéfico se o artigo tivesse explorado de forma mais ampla os desafios éticos e de privacidade associados. Isso teria enriquecido a discussão sobre o uso responsável dos dados da IoT.
+Extensão Excessiva da Visão Geral: Apesar de ser abrangente, o artigo pode ser considerado demasiadamente longo para alguns leitores. Uma visão geral mais concisa poderia ter mantido o foco nos pontos-chave.
+
+
+
+
