@@ -1,4 +1,5 @@
 # Sumário do artigo
+O artigo "Machine learning for internet of things data analysis: a survey" aborda, em suma, a utilização de dados abertos para a aplicação de cidades inteligentes.
 
 Introdução
 Existem muitos conjuntos de dados abertos para aplicações de cidades inteligentes que são facilmente acessíveis aos investigadores. Além disso, um algoritmo Support Vector Machine é implementado nos dados de tráfego inteligentes da cidade de Aarhus para prever as horas de trânsito durante um dia. Ao responder às perguntas acima sobre dados inteligentes de IoT e algoritmos de aprendizado de máquina, seríamos capazes de escolher o melhor algoritmo de aprendizado de máquina que pode lidar com as características de dados inteligentes de IoT. Ao contrário de pesquisas semelhantes sobre aprendizado de máquina e IoT, os leitores deste artigo seriam capazes de obter uma compreensão profunda e técnica de algoritmos de aprendizado de máquina, aplicativos de IoT e características de dados de IoT, juntamente com implementações técnicas e simples.
@@ -27,26 +28,20 @@ Esses sistemas precisam gerenciar diferentes tipos de dados, como dados de local
 
 # Comparação das técnicas
 
-Do artigo: O artigo se concentra no uso de dados IoT e algoritmos de machine learning para aprimorar os serviços de cidades inteligentes, com ênfase especial na previsão e gerenciamento do tráfego.
+ETL (Extração, Transformação e Carga):
+- No contexto do artigo, a ETL envolve a extração de dados provenientes de sensores IoT em uma cidade inteligente, seguida da transformação desses dados em formatos apropriados para análise.
+- No projeto, o processo de ETL consiste na extração de dados do sistema Bleed dos motores de aeronaves (fornecidos pela própria companhia aérea AZUL), na sua subsequente transformação em informações úteis e na carga desses dados em um ambiente preparado para análise.
 
-Projeto: O foco principal deste projeto seria a manutenção preditiva de aeronaves, por meio do desenvolvimento de modelos preditivos de IA para detectar falhas potenciais em sistemas bleed das aeronaves.
-Fontes de dados:
+Análise de Dados:
+- No artigo, a análise de dados compreende a aplicação de algoritmos de aprendizado de máquina com o objetivo de extrair insights e antecipar tendências com base nos dados das cidades inteligentes.
+- No projeto, a análise de dados envolve a utilização de algoritmos de aprendizado de máquina para identificar padrões nos dados do sistema Bleed dos motores e antecipar possíveis falhas.
 
-Do artigo: O artigo menciona o uso de conjuntos de dados abertos para aplicações de cidades inteligentes, possivelmente originados de vários sensores e dispositivos IoT implantados na cidade.
+Objetivos de Predição:
+- O artigo tem como meta a previsão de eventos ou padrões relacionados às cidades inteligentes, como previsões de tráfego ou análise do consumo de energia.
+- No projeto, o principal objetivo é prever o momento em que ocorrerá uma falha no sistema Bleed dos motores da aeronave, baseando-se nos dados disponíveis.
 
-Projeto: O projeto depende de fontes de dados específicas de aeronaves, incluindo dados de sensores do sistema bleed das aeronaves e registros de manutenção.
-
-Algoritmos:
-
-Do artigo: O artigo discute o uso do algoritmo Support Vector Machine (SVM) para previsão de tráfego em um contexto de cidade inteligente.
-
-Projeto: O projeto empregaria algoritmos de IA e machine learning adaptados a dados da aviação, que inclui técnicas como detecção de anomalias através de modelos de IA.
-
-Objetivos:
-
-Do artigo: O objetivo do artigo é compreender as características dos dados IoT, a adequação dos algoritmos de machine learning aos dados IoT e suas aplicações em cidades inteligentes.
-
-Projeto: O objetivo principal é aumentar a segurança e confiabilidade da aviação, prevendo possiveis falhas no sistema bleed de aeronaves, o que é uma preocupação crítica para a azul poder economizar no seu combustível.
-
+Utilização de Algoritmos de Aprendizado de Máquina:
+- No contexto do artigo, é abordada a aplicação de algoritmos de aprendizado de máquina em um contexto de IoT, voltada para a análise de dados.
+- No projeto, também há a aplicação de algoritmos de aprendizado de máquina, porém direcionados especificamente para a previsão de falhas nos sistemas de motores de aeronaves.
 
 # Resenha crítica
