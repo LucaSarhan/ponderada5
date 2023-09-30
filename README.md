@@ -65,6 +65,4 @@ Ausência de Exemplos Práticos: Embora o artigo apresente uma análise teórica
 Limitação na Discussão de Desafios Éticos e de Privacidade: Dado o caráter intrusivo da coleta de dados da IoT, seria benéfico se o artigo tivesse explorado de forma mais ampla os desafios éticos e de privacidade associados. Isso teria enriquecido a discussão sobre o uso responsável dos dados da IoT.
 Extensão Excessiva da Visão Geral: Apesar de ser abrangente, o artigo pode ser considerado demasiadamente longo para alguns leitores. Uma visão geral mais concisa poderia ter mantido o foco nos pontos-chave.
 
-
-
-
+No nosso projeto foi testado em relação a parte de ETL até achar a melhor forma de concluir essa etapa, foi testado alguns algoritmos de aprendizado de maquina que utiliza o ETL, por exemplo, o modelo AutoML do pycaret, KNN e regressão linear, formas diferentes de analisar os dados brutos providenciados pela AZUL e o melhor jeito de fazer o output da predição 
