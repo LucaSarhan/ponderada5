@@ -42,6 +42,6 @@ Objetivos de Predição:
 
 Utilização de Algoritmos de Aprendizado de Máquina:
 - No contexto do artigo, é abordada a aplicação de algoritmos de aprendizado de máquina em um contexto de IoT, voltada para a análise de dados.
-- No projeto, também há a aplicação de algoritmos de aprendizado de máquina, porém direcionados especificamente para a previsão de falhas nos sistemas de motores de aeronaves.
+- No projeto, também há a aplicação de algoritmos de aprendizado de máquina, porém direcionados especificamente para a previsão de falhas no sistema bleed de motores de aeronaves.
 
 # Resenha crítica
