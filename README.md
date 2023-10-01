@@ -78,8 +78,10 @@ Análise Técnica: O artigo oferece uma análise técnica bem detalhada e sólid
 
 Aspectos Negativos:
 
-Ausência de Exemplos Práticos: Embora o artigo apresente uma análise teórica sólida, ele deixa a desejar ao não incluir exemplos práticos de implementação. A inclusão de estudos de caso ou exemplos reais teria sido útil para ilustrar como as técnicas de aprendizado de máquina são aplicadas de forma concreta na análise de dados da IoT.
-Limitação na Discussão de Desafios Éticos e de Privacidade: Dado o caráter intrusivo da coleta de dados da IoT, seria benéfico se o artigo tivesse explorado de forma mais ampla os desafios éticos e de privacidade associados. Isso teria enriquecido a discussão sobre o uso responsável dos dados da IoT.
-Extensão Excessiva da Visão Geral: Apesar de ser abrangente, o artigo pode ser considerado demasiadamente longo para alguns leitores. Uma visão geral mais concisa poderia ter mantido o foco nos pontos-chave.
+Ética e Privacidade: O artigo não aborda nada sobre os desafios da ética e privacidade neste universo. Dada a importância desse assunto, seria melhor se tivesse essa abordagem. O uso responsável dos dados da IoT deve sempre estar presente nessas discussões.
 
-No nosso projeto foi testado em relação a parte de ETL até achar a melhor forma de concluir essa etapa, foi testado alguns algoritmos de aprendizado de maquina que utiliza o ETL, por exemplo, o modelo AutoML do pycaret, KNN e regressão linear, formas diferentes de analisar os dados brutos providenciados pela AZUL e o melhor jeito de fazer o output da predição 
+Exemplos de Implementação: O artigo não relata exemplos de implementação práticos que seriam otimos para esclarecer conceitos. A inclusão de estudos de caso ou exemplos reais teria sido útil para ilustrar como as técnicas de aprendizado de máquina são aplicadas de forma concreta na análise de dados da IoT.
+
+Tamanho do Artigo: O artigo é muito grande, sem duvida desafiador para leitores que não entendem a parte técnica. Muitas partes poderiam ter sido mais objetivas.
+
+No nosso projeto foi testado em relação a parte de ETL até achar a melhor forma de concluir essa etapa. Foi testado alguns algoritmos de aprendizado de maquina que utiliza o ETL, por exemplo, o modelo AutoML do pycaret, KNN e regressão linear, formas diferentes de analisar os dados brutos providenciados pela AZUL e o melhor jeito de fazer o output da predição.
