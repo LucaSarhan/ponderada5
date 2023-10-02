@@ -14,33 +14,27 @@ O objetivo deste artigo é responder às seguintes questões:
 
 A) Como os algoritmos de aprendizado de máquina podem ser aplicados à IoT inteligente de dados? Aqui foram considerado três conceitos: a aplicação IoT, as características dos dados da IoT e a visão orientada por dados de aprendizado de máquina.
 
-B) Qual é a taxonomia dos algoritmos de aprendizado de máquina que pode ser adotado em IoT? Aqui foi revelado que  existem oito grupos principais de algoritmos aplicáveis a dados IoT. Esses algoritmos são categorizados de acordo com suas semelhanças estruturais,  tipos de dados que podem manipular e a quantidade de dados que podem processar em um tempo razoável.
+B) Qual é a taxonomia dos algoritmos de aprendizado de máquina que pode ser adotado em IoT? Aqui foi revelado que  existem oito grupos principais de algoritmos aplicáveis a dados IoT. 
 
 C) Quais são as características dos dados IoT no mundo real? 
-
-Para obter uma visão mais profunda dos dados inteligentes da IoT, os padrões devem ser extraídos e os dados gerados interpretados.
 
 D) Por que a cidade inteligente é um caso de uso típico de aplicações IoT? 
 Uma cidade inteligente foi selecionada como nosso principal caso de uso em IoT portrês razões: Primeiro, entre todos os artigos revisados, o foco de 60% está no campo das cidades inteligentes. Em segundo lugar, as cidades inteligentes incluem muitos dos outros casos de uso em IoT. Terceiro, existem muitos conjuntos de dados abertos para aplicações de cidades inteligentes que sejam facilmente acessíveis para pesquisadores. Além disso, um algoritmo Support Vector Machine (SVM) é implementado no tráfego de dados da cidade inteligente Aarhus para prever horas de trânsito durante um dia. Ao responder às perguntas acima sobre dados inteligentes Iot e algoritmos de aprendizado de máquinas seríamos capazes de escolher o melhor algoritmo de aprendizado de máquina que pode lidar com características de dados inteligentes da IoT.
 
  
-
 Neste contexto, o artigo é organizado da seguinte forma:
 
 2. Literatura a respeito – artigos relacionados são revisados e reportados;
 
 3. IoT – Aplicações IoT e protocolos de comunicação, estruturas de computação, arquitetura IoT e segmentos de cidades inteligentes são revisados, explicados, resumidos e ilustrados. Computer framework é abordao – Fog computing, Edge computing e Cloud computing.
 
-4. Cidade Inteligente - O conceito de cidades inteligentes tem ganhado destaque devido à necessidade de melhorar a qualidade de vida e a eficiência dos serviços urbanos. Com o aumento da população e da complexidade das infraestruturas urbanas, as cidades buscam soluções para lidar com desafios urbanos em larga escala. A Internet das Coisas (IoT) desempenha um papel fundamental na coleta de dados do ambiente urbano, permitindo que as cidades usem informações em tempo real e sistemas de monitoramento inteligente para responder de maneira mais eficaz a situações emergenciais, como desastres naturais. Ao adotar tecnologias IoT, os ativos urbanos podem ser interconectados, tornando-os mais visíveis e gerenciáveis. O objetivo das cidades inteligentes é melhorar serviços como gestão de tráfego, fornecimento de água, e eficiência energética, ao mesmo tempo em que melhora a qualidade de vida dos habitantes urbanos. Além disso, as cidades inteligentes buscam reduzir despesas em áreas como saúde pública, segurança, transporte e gestão de recursos, o que pode impulsionar suas economias. A visão de longo prazo para uma cidade inteligente é que todos os sistemas e estruturas urbanas monitorariam automaticamente suas próprias condições e se autoreparariam conforme necessário. Isso representa um nível avançado de automação e eficiência na gestão urbana.
-
+4. Cidade Inteligente - O conceito de cidades inteligentes tem ganhado destaque devido à necessidade de melhorar a qualidade de vida e a eficiência dos serviços urbanos. Com o aumento da população e da complexidade das infraestruturas urbanas, as cidades buscam soluções para lidar com desafios urbanos em larga escala. A Internet das Coisas (IoT) desempenha um papel fundamental na coleta de dados do ambiente urbano, permitindo que as cidades usem informações em tempo real e sistemas de monitoramento inteligente para responder de maneira mais eficaz a situações emergenciais, como desastres naturais.
 Os casos de utilização para cidades inteligentes consistem em energia inteligente, mobilidade inteligente, cidadãos inteligentes e planejamento urbano
  
-
 5. Taxonomia de algoritmos de aprendizado de máquina - Algoritmos de aprendizado de máquina em oito categorias com base em estudos recentes sobre os dados de IoT e a frequência dos algoritmos de aprendizado de máquina são revisados.
  
 6. Discussão da taxonomia de algoritmos de aprendizado de máquina – os algoritmos correspondentes a aplicações específicas de cidades inteligentes são abordados.
  
-
 7. Tendencias futuras de pesquisas.
 
 8. Conclusões
